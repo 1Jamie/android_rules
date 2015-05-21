@@ -10,4 +10,4 @@ to do it manually from command line
 * sudo service udev restart
 * adb kill-server
 * adb start-server
-* adb devuces 
+* adb devices 
